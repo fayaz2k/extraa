@@ -24,8 +24,8 @@ else{
 }*/
 
 var html = "HTML";
-var java = "java";
-var python = "python";
+//var java = "java";
+//var python = "python";
 
     /*var a = prompt("Enter HTML Marks");
     var b = +prompt("Enter Java Marks");*/
