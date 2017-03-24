@@ -1,6 +1,6 @@
-/*var per = +prompt("Enter you percetage");
+var per = +prompt("Enter you percetage");
 
-/*document.write("per");
+//document.write("per");
 
 window.alert("per");*
 
@@ -21,7 +21,7 @@ else if(per<50){
 }
 else{
     window.alert("You are Fail");
-}*/
+}
 
 var html = "HTML";
 //var java = "java";
@@ -67,8 +67,8 @@ else{
 }*/
 
     var a = prompt("user Name");
-    var b = +prompt("age");
-    var a = prompt("Where He Teach");
+  //  var b = +prompt("age");
+  //  var a = prompt("Where He Teach");
 
 var user = a;
 var age = b;
